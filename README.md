@@ -16,7 +16,7 @@ Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressi
 > In this work, we propose a novel auto-regressive dense encoder-decoder convolutional neural network to solve and model transient systems with non-linear dynamics at a computational cost that is potentially magnitudes lower than standard numerical solvers. This model includes a Bayesian framework that allows for uncertainty quantification of the predicted quantities of interest at each time-step. We rigorously test this model on several non-linear transient partial differential equation systems including the turbulence of the Kuramoto-Sivashinsky equation, multi-shock formation and interaction with 1D Burgers’ equation and 2D wave dynamics with coupled Burgers’ equations.
 
 ## Index
-Each of the PDE systems used in the paper is designated its own folder where more information can be found regarding modeling training, testing and figure replication.
+Each of the PDE systems used in the paper is designated its own folder where more information can be found regarding model training, testing and figure replication.
 - **1D-KS-SWAG**: The 1D Kuramoto-Sivashinsky system.
 - **1D-Burger-SWAG**: The 1D viscous Burgers' system.
 - **2D-Burgers-SWAG**: The 2D coupled Burgers' system.
