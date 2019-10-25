@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Extra stuff
+**/post/**/*.png
+**/post/**/*.gif
+*.dat
+*.pdf
+*.txt
+*.npy
+*.npz
+*.gz
