@@ -9,7 +9,7 @@ Modeling the Dynamics of PDE Systems with Physics-Constrained Deep Auto-Regressi
 
 | Highlights | Bayesian 2D Coupled Burgers' Prediction |
 | ------------- | ------------- |
-|<ul><li>Zero Training Data</li><li>Surrogate Modeling</li><li>Deep Convolutional Networks</li><li>Non-linear Dynamics</li><li>Chaotic Systems</li><li>Bayesian Framework</li><li>100x Faster than FEM </li></ul> | ![2D Burgers' animation](img/main_animation.gif "2D Coupled Burgers' Prediction")|
+|<ul><li>Zero Training Data</li><li>Surrogate Modeling</li><li>Deep Convolutional Networks</li><li>Non-linear Dynamics</li><li>Chaotic Systems</li><li>Bayesian Framework</li><li>500x Faster than FEM </li></ul> | ![2D Burgers' animation](img/main_animation.gif "2D Coupled Burgers' Prediction")|
 
 </center>
 

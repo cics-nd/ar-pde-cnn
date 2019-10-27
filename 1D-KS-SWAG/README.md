@@ -38,7 +38,7 @@ Additional details of program parameters can be found in `args.py`.
 
 To generate your own testing data run `solver/ksSolver.m` in Matlab.
 
-Alternatively, one can download the testing data from [Notre Dame's Secure File Sharing Server](https://notredame.app.box.com/file/477538156270).
+Alternatively, one can download the testing data from [Notre Dame's Secure File Sharing Server](https://notredame.box.com/s/wsp72b70ypzg3r2vbvvna38slz9yk6u3).
 Move the compressed folder to the `./solver` folder, and extract its contents with:
 ```
 tar -xvzf ar_pde_ksData.tar.gz
