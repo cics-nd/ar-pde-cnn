@@ -37,6 +37,8 @@ Each of the PDE systems used in the paper is designated its own folder where mor
 
 *Plus additional standard packages such as Numpy and Scipy*
 
+**Note**: PyTorch <= 1.2.0 must be used due to a change `padding_mode='circular'` behavior, for higher PyTorch versions reduce padding to 1 (currently 2 due to a bug in PyTorch versions 1.1.0 and 1.2.0).
+
 ## Citation
 Find this useful or like this work? Cite us with:
 ```latex
