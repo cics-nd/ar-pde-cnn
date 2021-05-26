@@ -39,7 +39,7 @@ Additional details of program parameters can be found in `args.py`.
 
 Generate your own testing data using FEM using `solver/fenics_burgers2d.py` in Python. Note that you will require the [Fenics FEM package](https://fenicsproject.org/).
 ```
-python fenics_burger2D.py --istart 0 --iend 200
+python fenics_burgers2D.py --istart 0 --iend 200
 ```
 *For generating data for most plots, one only needs to run up to test case 15.*
 
