@@ -42,11 +42,12 @@ Each of the PDE systems used in the paper is designated its own folder where mor
 ## Citation
 Find this useful or like this work? Cite us with:
 ```latex
-@article{geneva2019modeling,
+@article{geneva2020modeling,
   title = {Modeling the dynamics of {PDE} systems with physics-constrained deep auto-regressive networks},
   journal = {Journal of Computational Physics},
+  volume = {403},
   pages = {109056},
-  year = {2019},
+  year = {2020},
   issn = {0021-9991},
   doi = {10.1016/j.jcp.2019.109056},
   url = {http://www.sciencedirect.com/science/article/pii/S0021999119307612},
